@@ -1,6 +1,8 @@
 **/vendor/
 **.vscode/
+**/.idea/
 /vendor/
+/.idea/
 composer.lock
 .DS_Store
 *.log
